@@ -5,14 +5,6 @@
 
 
 <p align="center">Hi 👋! I am a web developer, a web development enthusiast and student at SMIT. I'm passionate about creating dynamic and user-friendly web applications using modern technologies like HTML, CSS, JavaScript, React, and Firebase. 
-
-🔭 I’m currently working on various projects, including a student management portal, a music player app, and Firebase integration for authentication and file uploads. 
-
-🌱 I’m always learning new tools and techniques to enhance my coding skills and contribute to open-source projects.
-
-📫 Feel free to connect with me at [codewithsmr@gmail.com](mailto:codewithsmr@gmail.com) or check out my projects on GitHub.
-
-🚀 Let's build something amazing together!
 </p>
 
 ###
