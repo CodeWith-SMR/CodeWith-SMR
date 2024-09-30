@@ -4,7 +4,7 @@
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! I am a web developer, Proficient in HTML, CSS, JavaScript, React, Angular, Vue.js, Node.js, Express, and MongoDB.</h2>
 
 ###
 
@@ -24,41 +24,35 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="32" alt="vscode logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="32" alt="html5 logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="32" alt="css3 logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="32" alt="tailwindcss logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="32" alt="bootstrap logo"  />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/bulma/00D1B2" height="30" alt="bulma logo"  />
+  <img src="https://cdn.simpleicons.org/bulma/00D1B2" height="32" alt="bulma logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="32" alt="figma logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="32" alt="git logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="32" alt="github logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="32" alt="javascript logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="32" alt="typescript logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="32" alt="react logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="32" alt="nextjs logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="32" alt="nodejs logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif"  />
+  <img src="https://skillicons.dev/icons?i=firebase" height="32" alt="firebase logo"  />
 </div>
 
 ###
@@ -89,8 +83,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/CodeWith-SMR/CodeWith-SMR/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=CodeWith-SMR&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
 
 ###
