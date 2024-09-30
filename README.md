@@ -4,7 +4,8 @@
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 
-<h2 align="left">Hi 👋! I am a web developer, Proficient in HTML, CSS, JavaScript, React, Angular, Vue.js, Node.js, Express, and MongoDB.</h2>
+
+<h4 align="center">Hi 👋! I am a web developer, Proficient in HTML, CSS, JavaScript, React, Angular, Vue.js, Node.js, Express, and MongoDB.</h4>
 
 ###
 
