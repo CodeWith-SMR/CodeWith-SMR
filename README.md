@@ -4,7 +4,6 @@
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 
-
 <h4 align="center">Hi 👋! I am a web developer, Proficient in HTML, CSS, JavaScript, React, Angular, Vue.js, Node.js, Express, and MongoDB.</h4>
 
 ###
@@ -25,35 +24,35 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" height="37" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=html" height="37" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=css" height="37" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="37" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="37" alt="bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="35" alt="bootstrap logo"  />
   <img width="15" />
-  <img src="https://cdn.simpleicons.org/bulma/00D1B2" height="37" alt="bulma logo"  />
+  <img src="https://cdn.simpleicons.org/bulma/00D1B2" height="35" alt="bulma logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=figma" height="37" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="35" alt="figma logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=git" height="37" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=github" height="37" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="35" alt="github logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=js" height="37" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=ts" height="37" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="35" alt="typescript logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=react" height="37" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="37" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="nextjs logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="37" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="37" alt="firebase logo"  />
+  <img src="https://skillicons.dev/icons?i=firebase" height="35" alt="firebase logo"  />
 </div>
 
 ###
