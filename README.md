@@ -4,7 +4,6 @@
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
@@ -86,8 +85,6 @@
 <img align="right" height="200" src="https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif"  />
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/CodeWith-SMR/CodeWith-SMR/output/snake.svg" alt="Snake animation" />
 
