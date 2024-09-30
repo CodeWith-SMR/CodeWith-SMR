@@ -1,4 +1,4 @@
-![Grey and White Simple Modern Marketing Linkedln Background Photo (1)](https://github.com/user-attachments/assets/c464ed2c-2575-4549-ab2e-9a3690265827)
+![Brown Modern Designer LinkedIn Banner](https://github.com/user-attachments/assets/9d786765-b7ae-4037-8de8-c1a008035c5c)
 
 <h1 align="center">Hi 👋, I'm Muhammad Raza</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
