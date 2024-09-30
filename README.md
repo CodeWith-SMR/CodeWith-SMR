@@ -70,13 +70,13 @@
   <a href="https://twitter.com/CodeWithSMR" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="55" height="35" alt="twitter logo"  />
   </a>
-  <a href="+923161045073" target="_blank">
+  <a href="https://www.whatsapp.com/business/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="55" height="35" alt="whatsapp logo"  />
   </a>
   <a href="https://www.linkedin.com/in/muhammad-raza-a6b9312b7/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="35" alt="linkedin logo"  />
   </a>
-  <a href="codewithsmr@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/mu/mp/272/#tl/priority/%5Esmartlabel_personal" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="35" alt="gmail logo"  />
   </a>
 </div>
