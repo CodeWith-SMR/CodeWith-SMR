@@ -1,5 +1,4 @@
 ![Brown Modern Designer LinkedIn Banner](https://github.com/user-attachments/assets/9d786765-b7ae-4037-8de8-c1a008035c5c)
-![background](https://github.com/user-attachments/assets/21f16b88-bc33-4840-8234-5d6a28a81ec1)
 
 
 <h1 align="center">Hi 👋, I'm Muhammad Raza</h1>
