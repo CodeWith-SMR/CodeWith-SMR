@@ -162,11 +162,11 @@
 
 ###
 
- <div align="center" style="background-color: #1e1e2e; padding: 20px; border-radius: 15px; width: 50%; margin: auto; box-shadow: 4px 4px 15px rgba(0, 0, 0, 0.3);">
-  <h3 style="color: #ffffff; font-family: Arial, sans-serif;">👀 Profile Visitors</h3>
+<div align="center">
+  <h3>👀 Profile Visitors</h3>
   <img src="https://profile-counter.glitch.me/CodeWithSMR/count.svg?" 
        alt="Profile Visitor Counter" 
-       style="border-radius: 10px; background-color: #ffffff; padding: 10px; box-shadow: 2px 2px 10px rgba(255, 255, 255, 0.2);" />
+       style="border-radius: 10px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);" />
 </div>
 
 
