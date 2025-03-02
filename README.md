@@ -165,5 +165,11 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/CodeWithSMR/count.svg?"  />
 </div>
+<div align="center">
+  <h2>👀 Profile Visitors</h2>
+  <img src="https://profile-counter.glitch.me/CodeWithSMR/count.svg?" 
+       alt="Profile Visitor Counter" 
+       style="border-radius: 10px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);" />
+</div>
 
 ###
