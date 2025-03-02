@@ -1,71 +1,146 @@
 ![Brown Modern Designer LinkedIn Banner](https://github.com/user-attachments/assets/9d786765-b7ae-4037-8de8-c1a008035c5c)
 
-<h1 align="center">Hi 👋, I'm Muhammad Raza</h1>
-<h3 align="center">Passionate Frontend Developer | JavaScript & React Enthusiast</h3>
+<h2 align="center">Hi 👋, I'm Muhammad Raza</h2>
 
----
+###
+
+<h4 align="center">Passionate Frontend Developer | JavaScript & React Enthusiast</h4>
+
+###
 
 <p align="center">I'm a dedicated web developer from Pakistan, currently learning and growing at SMIT. I specialize in crafting dynamic, responsive, and user-friendly web applications using modern technologies like HTML, CSS, JavaScript, React, and Firebase.</p>
 
----
+###
 
-<h2 align="center">🚀 Skills & Technologies</h2>
+<h3 align="center">📊 GitHub Stats</h3>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,html,css,tailwind,bootstrap,bulma,figma,git,github,js,ts,react,nextjs,nodejs,firebase" height="40" alt="skills"  />
-</div>
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
+###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeWith-SMR&show_icons=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeWith-SMR&layout=compact&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=CodeWith-SMR&theme=dracula&hide_border=false" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithSMR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeWithSMR&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
----
+###
 
-<h2 align="center">🌍 Connect with Me</h2>
+<h3 align="center">🚀 Skills & Technologies</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-raza-a6b9312b7/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" alt="LinkedIn" />
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sass" height="30" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vue" height="30" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+###
+
+<h3 align="center">🌍 Connect with Me</h3>
+
+###
+
+<div align="center">
+  <a href="https://mail.google.com/mail/u/0/?ogbl#inbox" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://twitter.com/CodeWithSMR" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50" alt="Twitter" />
+  <a href="https://wa.me/923161045073" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="47" height="35" alt="whatsapp logo"  />
   </a>
-  <a href="https://www.youtube.com/channel/UCwJV_Sb7I1XQBxsoCW0D_hQ" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="50" alt="YouTube" />
-  </a>
-  <a href="https://www.instagram.com/muhammabraza2005/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" alt="Instagram" />
+  <a href="https://www.youtube.com/@CodeWithSMRIT" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="47" height="35" alt="youtube logo"  />
   </a>
   <a href="https://www.facebook.com/profile.php?id=61552142131093" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="50" alt="Facebook" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="35" alt="facebook logo"  />
   </a>
-  <a href="https://www.whatsapp.com/business/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="50" alt="WhatsApp" />
+  <a href="https://www.instagram.com/codewithsmrofficial/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
-  <a href="mailto:muhammabraza2005@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" alt="Email" />
+  <a href="https://www.linkedin.com/in/muhammad-raza-653622346/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
-</p>
+  <a href="https://twitter.com/CodeWithSMR" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
+  </a>
+</div>
 
----
+###
 
-<h2 align="center">🎯 My Goals</h2>
+<h3 align="center">🏆 GitHub Achievements & Activity</h3>
 
-<ul>
-  <li>Enhance my expertise in JavaScript, React, and Next.js</li>
-  <li>Contribute to open-source projects</li>
-  <li>Build full-stack applications using Node.js and Firebase</li>
-  <li>Improve UI/UX skills using Figma and modern CSS frameworks</li>
-</ul>
+###
 
----
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=CodeWithSMR&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=CodeWithSMR&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWithSMR&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
-<h2 align="center">💡 Fun Fact</h2>
+###
+
+<h3 align="center">🎯 My Goals</h3>
+
+###
+
+<p align="center">🚀 Advance Expertise in JavaScript, React, and Next.js<br>Continuously refine my skills to build scalable, high-performance web applications.<br><br>🔗 Contribute to Open-Source Projects<br>Engage with the developer community by collaborating on impactful open-source initiatives.<br><br>🌐 Develop Full-Stack Applications with Node.js & Firebase<br>Leverage backend technologies to create robust, secure, and scalable applications.<br><br>🎨 Enhance UI/UX Design with Figma & Modern CSS Frameworks<br>Focus on intuitive and aesthetically pleasing interfaces using industry-leading design tools.</p>
+
+###
+
+<img src="https://raw.githubusercontent.com/CodeWithSMR/CodeWithSMR/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h3 align="center">💡 Fun Fact</h3>
+
+###
+
 <p align="center">I love debugging—because every solved bug is a small victory! 🏆</p>
 
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/CodeWithSMR/count.svg?"  />
+</div>
+
+###
