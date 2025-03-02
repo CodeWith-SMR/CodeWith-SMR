@@ -4,6 +4,8 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Raza</h1>
 
+---
+
 ###
 
 <h3 align="center">Passionate Frontend Developer | JavaScript & React Enthusiast</h3>
