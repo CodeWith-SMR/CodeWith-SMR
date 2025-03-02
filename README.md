@@ -34,41 +34,41 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="29" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="29.9" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="29" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="29.9" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="29" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="29.9" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sass" height="29" alt="sass logo"  />
+  <img src="https://skillicons.dev/icons?i=sass" height="29.9" alt="sass logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="29" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="29.9" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="29" alt="bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="29.9" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="29" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="29.9" alt="figma logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="29" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="29.9" alt="git logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="29" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="29.9" alt="github logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="29" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="29.9" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="29" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="29.9" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="29" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="29.9" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="29" alt="firebase logo"  />
+  <img src="https://skillicons.dev/icons?i=firebase" height="29.9" alt="firebase logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="29" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="29.9" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="29" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="29.9" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" height="29" alt="vuejs logo"  />
+  <img src="https://skillicons.dev/icons?i=vue" height="29.9" alt="vuejs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="29" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="29.9" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="29" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="29.9" alt="express logo"  />
 </div>
 
 ###
