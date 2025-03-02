@@ -123,6 +123,12 @@
 
 ###
 
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=ecf05e47jww8fwtm3xc8foqar8io57wyb6apkcn2s7e1ore3&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+</div>
+
+###
+
 <h3 align="center">🎯 My Goals</h3>
 
 ###
