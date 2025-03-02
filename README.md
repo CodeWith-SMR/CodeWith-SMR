@@ -4,12 +4,12 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Raza</h1>
 
----
-
 ###
 
 <h3 align="center">Passionate Frontend Developer | JavaScript & React Enthusiast</h3>
 
+
+---
 ###
 
 <p align="center">I'm a dedicated web developer from Pakistan, currently learning and growing at SMIT. I specialize in crafting dynamic, responsive, and user-friendly web applications using modern technologies like HTML, CSS, JavaScript, React, and Firebase.</p>
