@@ -73,7 +73,7 @@
 
 ###
 
-<br clear="both">
+
 
 <div align="center">
   <img height="150" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif"  />
