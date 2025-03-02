@@ -14,7 +14,9 @@
 
 <p align="center">I'm a dedicated web developer from Pakistan, currently learning and growing at SMIT. I specialize in crafting dynamic, responsive, and user-friendly web applications using modern technologies like HTML, CSS, JavaScript, React, and Firebase.</p>
 
+-
 
+###
 
 <h3 align="center">📊 GitHub Stats</h3>
 
