@@ -86,7 +86,7 @@
 ###
 
 <div align="center">
-  <a href="codewithsmrit@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/?ogbl#inbox" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
   <a href="https://wa.me/923161045073" target="_blank">
