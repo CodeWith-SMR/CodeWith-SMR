@@ -161,6 +161,7 @@
 <p align="center">I love debugging—because every solved bug is a small victory! 🏆</p>
 
 ###
+---
 
 <div align="center">
   <h3>👀 Profile Visitors</h3>
