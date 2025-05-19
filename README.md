@@ -183,12 +183,3 @@
 
 
 ###
-
-
-## 📫 How to Reach Me
-
-- 📧 **Email:** [codewithsmr@gmain.com](mailto:codewithsmr@gmain.com)
-- 📱 **WhatsApp:** [+92 3161045073](https://wa.me/923161045073)
-- 💻 **GitHub:** [CodeWith-SMR](https://github.com/CodeWith-SMR)
-
-  ###
