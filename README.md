@@ -180,6 +180,11 @@
        style="border-radius: 10px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);" />
 </div>
 
+###
 
+<p align="center">
+   <strong>✨ Thank you for visiting my profile! ✨</strong>
+  <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="bottom" />
+</p>
 
 ###
