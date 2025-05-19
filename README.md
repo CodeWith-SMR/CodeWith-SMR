@@ -18,7 +18,7 @@
 
 <p align="center">I'm a dedicated web developer from Pakistan, currently learning and growing at SMIT. I specialize in crafting dynamic, responsive, and user-friendly web applications using modern technologies like HTML, CSS, JavaScript, React, and Firebase.</p>
 
-<img src="https://komarev.com/ghpvc/?username=CodeWith-SMR&label=Profile%20views&color=0e75b6&style=flat" alt="CodeWith-SMR" />
+<img src="https://komarev.com/ghpvc/?username=&label=Profile%20views&color=0e75b6&style=flat" alt="CodeWith-SMR" />
 
 <!-- [![committers.top badge](https://user-badge.committers.top/pakistan/CodeWith-SMR.svg)](https://user-badge.committers.top/pakistan/CodeWith-SMR) -->
 
@@ -175,7 +175,7 @@
 
 <div align="center">
   <h3>👀 Profile Visitors</h3>
-  <img src="https://profile-counter.glitch.me/CodeWithSMR/count.svg?" 
+  <img src="https://profile-counter.glitch.me//count.svg?" 
        alt="Profile Visitor Counter" 
        style="border-radius: 10px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);" />
 </div>
