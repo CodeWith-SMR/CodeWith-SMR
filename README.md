@@ -8,6 +8,10 @@
 
 ###
 
+<h3 align="center">Passionate Frontend Developer | JavaScript & React Enthusiast</h3>
+
+###
+
 <div align="center">
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=CodeWith-SMR&data=followers,repositories,stars,commits&theme=radical&hide_border=true)](https://github.com/CodeWith-SMR)
@@ -17,11 +21,6 @@
 <!-- [![committers.top badge](https://user-badge.committers.top/pakistan/CodeWith-SMR.svg)](https://user-badge.committers.top/pakistan/CodeWith-SMR) -->
 
 </div>
-
-###
-
-<h3 align="center">Passionate Frontend Developer | JavaScript & React Enthusiast</h3>
-
 
 
 ###
