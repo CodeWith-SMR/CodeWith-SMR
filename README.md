@@ -18,11 +18,12 @@
 
 <div align="center">
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=CodeWith-SMR=followers,repositories,stars,commits&theme=radical&hide_border=true)](https://github.com/Hasanhayat/HasanHayat-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=CodeWith-SMR&data=followers,repositories,stars,commits&theme=radical&hide_border=true)](https://github.com/CodeWith-SMR)
 
- <img src="https://komarev.com/ghpvc/?username=hasanhayat&label=Profile%20views&color=0e75b6&style=flat" alt="hasanhayat" />
+<img src="https://komarev.com/ghpvc/?username=CodeWith-SMR&label=Profile%20views&color=0e75b6&style=flat" alt="CodeWith-SMR" />
 
-<!--[![committers.top badge](https://user-badge.committers.top/pakistan/hasanhayat.svg)](https://user-badge.committers.top/pakistan/hasanhayat)-->
+<!-- [![committers.top badge](https://user-badge.committers.top/pakistan/CodeWith-SMR.svg)](https://user-badge.committers.top/pakistan/CodeWith-SMR) -->
+
 </div>
 
 ##
