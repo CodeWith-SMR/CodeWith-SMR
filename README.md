@@ -15,7 +15,7 @@
 
 <div align="center">
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=CodeWith-SMR&data=followers,repositories,stars,commits&theme=radical&hide_border=true)](https://github.com/CodeWith-SMR)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=CodeWith-SMR&data=followers,repositories,stars,commits&theme=dark&hide_border=true)](https://github.com/CodeWith-SMR)
 
 <p align="center">I'm a dedicated web developer from Pakistan, currently learning and growing at SMIT. I specialize in crafting dynamic, responsive, and user-friendly web applications using modern technologies like HTML, CSS, JavaScript, React, and Firebase.</p>
 
