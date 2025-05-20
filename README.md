@@ -20,7 +20,6 @@
 <p align="center">I'm a dedicated web developer from Pakistan, currently learning and growing at SMIT. I specialize in crafting dynamic, responsive, and user-friendly web applications using modern technologies like HTML, CSS, JavaScript, React, and Firebase.</p>
 
 <img src="https://komarev.com/ghpvc/?username=CodeWith-SMR-dev&label=Profile%20views&color=0e75b6&style=flat" alt="CodeWith-SMR" />
-<img src="https://profile-counter.glitch.me/CodeWithSMR/count.svg" alt="Profile Counter" />
 
 <!-- [![committers.top badge](https://user-badge.committers.top/pakistan/CodeWith-SMR.svg)](https://user-badge.committers.top/pakistan/CodeWith-SMR) -->
 
